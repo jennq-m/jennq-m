@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/43/e9/16/43e9164cfe2537bb9d6746b4d053d032.gif)](https://lnk.bio/jennq)
-<h1 align="center">Heya! I'm Jenna 𓍢ִ໋🌷ִ ࣪𖤐⋆⭒˚｡⋆</h1>
-<h3 align="center">A passionate tech-enthusiast and AI/ML Co-Lead of GDSC-PUP :)</h3>
+<h1 align="center"> 𓍢ִ໋🌷ִ ࣪ jennq 𖤐⋆⭒˚｡⋆</h1>
+<h3 align="center">:D</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0e/33/36/0e333638a98b3771c7dc8a071ece5243.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennq-m&label=Profile%20views&color=0e75b6&style=flat" alt="jennq-m" /> </p>
