@@ -5,11 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennq-m&label=Profile%20views&color=0e75b6&style=flat" alt="jennq-m" /> </p>
 
-- 🔭 I’m currently working on **improving my tech skills.**
 
 - 👨‍💻 All of achievements are available on my LinkedIn account!
-
-- 💬 Ask me about **C, Python, Java, AI/ML**
 
 - 📫 How to reach me **lopez.jennamae8@gmail.com**
 
