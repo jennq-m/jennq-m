@@ -12,8 +12,6 @@
 
 - 📄 Know about my experiences [https://resume.io/r/NNSIQRJfv](https://resume.io/r/NNSIQRJfv)
 
-- ⚡ Fun fact **I still save a lot of rooms for improvements.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ms-jenna-lopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ms-jenna-lopez/" height="30" width="40" /></a>
